@@ -56,6 +56,10 @@ final shader = shaderProgram.shader(
 );
 ```
 
+## Fully working Windows example 
+
+[main.dart](lib/main.dart)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
