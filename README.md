@@ -1,6 +1,7 @@
 # texshader_test
 
-Testing textures with Flutter shaders.
+Import image files in Flutter and use them as a sampler2D uniform in a glsl shader.
+
 
 ![Screenshot](blob/sc.jpg)
 
@@ -56,9 +57,13 @@ final shader = shaderProgram.shader(
 );
 ```
 
-## Fully working Windows example 
+## Fully working example 
 
 [main.dart](lib/main.dart)
+
+## Thanks
+
+[@felixblaschke](https://github.com/felixblaschke) for providing the [**shader** (pub.dev)](https://pub.dev/packages/shader/versions) package to quickly test glsl shaders and leading me on the right path to success as discussed [here](https://github.com/felixblaschke/shader/issues/1). 
 
 ## Getting Started
 
