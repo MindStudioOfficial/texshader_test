@@ -2,7 +2,7 @@
 
 Import image files in Flutter and use them as a sampler2D uniform in a glsl shader.
 
-Based on the [shader](https://pub.dev/packages/shader) package by @felixblaschke
+Based on the [shader](https://pub.dev/packages/shader) package by [@felixblaschke](https://github.com/felixblaschke/)
 
 
 ![Screenshot](blob/sc.jpg)
